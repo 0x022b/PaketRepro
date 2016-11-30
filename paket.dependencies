@@ -1,1 +1,5 @@
+redirects: on
+framework: >= net461
+copy_local: true
+
 source https://api.nuget.org/v3/index.json
