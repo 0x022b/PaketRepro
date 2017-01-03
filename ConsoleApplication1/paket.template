@@ -1,0 +1,8 @@
+type file
+id Acme.Foobar
+version 1.0.0
+authors Acme Inc.
+description
+	This is the first paragraph of a dummy description.
+
+	This is the second paragraph of the dummy description.
