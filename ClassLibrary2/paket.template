@@ -1,0 +1,4 @@
+﻿type project
+authors foobar
+description Class library 2
+include-referenced-projects false
